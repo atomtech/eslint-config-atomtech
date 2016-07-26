@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-atomtech",
+  "version": "0.0.0",
+  "description": "This package provides AtomTech's .eslintrc as an extensible shared config.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:atomtech/eslint-config-atomtech.git"
+  },
+  "license": "MIT"
+}
