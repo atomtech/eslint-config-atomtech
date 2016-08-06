@@ -1,23 +1,14 @@
 module.exports = {
-  "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended"
-  ],
+  "extends": "eslint:recommended",
   "parser": "babel-eslint",
   "env": {
     "browser": true,
     "node": true,
     "mocha": true
   },
-  "plugins": [
-    "react"
-  ],
   "rules": {
     "quotes": [2, "single"],
     "no-console": 0,
-    "no-unused-vars": 0,
-    "react/display-name": 0,
-    "react/prop-types": 0,
-    "react/no-multi-comp": 0
+    "no-unused-vars": 0
   }
 };
