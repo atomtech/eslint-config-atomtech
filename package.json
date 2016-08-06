@@ -10,5 +10,8 @@
     "type": "git",
     "url": "git@github.com:atomtech/eslint-config-atomtech.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^3.2.2"
+  }
 }
