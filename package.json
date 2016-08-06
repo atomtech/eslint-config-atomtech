@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-atomtech",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package provides AtomTech's .eslintrc as an extensible shared config.",
   "main": "index.js",
   "scripts": {
